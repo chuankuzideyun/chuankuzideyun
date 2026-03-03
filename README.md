@@ -28,5 +28,4 @@ When I'm not securing code or building apps, you can find me:
 ---
 
 ## 📫 Connect with Me
-* 📧 **Email:** [yaoxuemeng36@gmail.com](mailto:yaoxuemeng36@gmail.com) 
 * 🔗 **LinkedIn:** [linkedin.com/in/xuemeng-yao](https://www.linkedin.com/in/xuemeng-yao-863495251/)
